@@ -1,0 +1,13 @@
+config:
+  urls:
+    - https://cloud.google.com/skus/sku-groups/google-kubernetes-engine
+    - https://cloud.google.com/skus/sku-groups/google-cloud-vmware-engine
+    - https://cloud.google.com/skus/sku-groups/gen-ai
+    - https://cloud.google.com/skus/sku-groups/on-demand-a100-gpus
+    - https://cloud.google.com/skus/sku-groups/network-egress
+    - https://cloud.google.com/skus/sku-groups/on-demand-vms
+    - https://cloud.google.com/skus/sku-groups/on-demand-gpus
+    - https://cloud.google.com/skus/sku-groups/spot-preemptible-vms
+
+  mode: True
+  filename: "CMHK-GCP_Reports, 2025-02-01 — 2025-02-28.xlsx"
